@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="ReflectionUtils">
+  <component name="FlexBuildConfigurationManager" active="ReflextionUtils">
     <configurations>
-      <configuration name="ReflectionUtils" target-platform="Mobile" output-type="Library" output-file="ReflectionUtils.swc" output-folder="$MODULE_DIR$/ReflectionUtils/bin">
+      <configuration name="ReflextionUtils" target-platform="Mobile" output-type="Library" output-file="ReflextionUtils.swc" output-folder="$MODULE_DIR$/bin">
         <dependencies>
           <sdk name="4.6.0 AIR 14" />
         </dependencies>
@@ -16,8 +16,8 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/ReflectionUtils">
-      <sourceFolder url="file://$MODULE_DIR$/ReflectionUtils/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="4.6.0 AIR 14" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
